@@ -24,7 +24,7 @@
         <javassist.version>3.9.0.GA</javassist.version>
         <commons-beanutils.version>1.8.3</commons-beanutils.version>
         <ehcache.version>1.6.2</ehcache.version>
-        <h2Version>1.4.182</h2Version>
+        <h2Version>2.1.210</h2Version>
 
         <hibernate.version>4.1.6.Final</hibernate.version>
         <hibernate-validator.version>5.0.1.Final</hibernate-validator.version>
